@@ -16,3 +16,4 @@ FreelanceDocument.create!(
   image_url:"https://static.pexels.com/photos/2394/lights-clouds-dark-car.jpg"
   )
 end
+
